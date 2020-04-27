@@ -1,4 +1,4 @@
-CONTIKI_PROJECT = sensor-interactions
+CONTIKI_PROJECT = nullnet-communication
 all: $(CONTIKI_PROJECT)
 CONTIKI = ../..
 MAKE_NET = MAKE_NET_NULLNET
